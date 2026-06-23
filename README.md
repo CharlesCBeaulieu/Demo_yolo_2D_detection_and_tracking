@@ -4,6 +4,8 @@ This repository is an interactive demo showcasing state-of-the-art 2D object det
 
 The project is designed to run both as a robust **Command-Line Interface (CLI) utility** and as a **premium Streamlit Web Application** featuring real-time visual output, parameters optimization, and tracking trajectory paths.
 
+![Web Interface Demo](data/imgs/web_interface_demo.png)
+
 ---
 
 ## 🌟 Key Features

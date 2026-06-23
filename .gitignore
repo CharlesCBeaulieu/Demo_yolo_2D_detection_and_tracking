@@ -19,7 +19,8 @@ __pycache__/
 runs/
 
 # Downloaded Test Assets
-data/
+data/*
+!data/imgs/
 
 # OS-specific files
 Thumbs.db
